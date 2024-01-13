@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Hi! I'm a phd candidate in physics by USP (University of São Paulo). I study Dark matter, dark photons and other stuff.
 ![](usp.jpg)
 
-## Researche:
+## Researches:
 
-I help to monitor the muons detectors of COSINE-100. This make many of [these works](https://arxiv.org/search/?query=r+l+c+pitta&searchtype=all&source=header) possible. I also uses a modded [DarkCapPy](https://github.com/agree019/DarkCapPy) in c++ for my researche. 
+I help to monitor the muons detectors of COSINE-100. This make many of [these works](https://arxiv.org/search/?query=r+l+c+pitta&searchtype=all&source=header) possible. I also uses a modded [DarkCapPy](https://github.com/agree019/DarkCapPy) in c++ for my researches. 
 
 ## Tech Stack:
 I'll add the badges soon...
