@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm a phd candidate in physics by USP (University of São Paulo). I study Dark matter, dark photons and other stuff.
+Hi! I'm a phd candidate in physics by USP (University of São Paulo). I study Dark matter, dark photons and other stuff :).
 ![](usp.jpg)
 
 ## Researches:
